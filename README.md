@@ -10,7 +10,9 @@ Download Theos4Windows.bat
 
 Run Theos4Windows.bat
 
-Wait.
+Walk away while it installs
+
+$$Profit$$
 
 ### Includes Cygwin Terminal - 
 
